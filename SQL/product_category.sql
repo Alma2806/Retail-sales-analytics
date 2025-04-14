@@ -1,0 +1,1 @@
+SELECT Product_Category, SUM(Total_Amount) AS Revenue FROM sales GROUP BY Product_Category ORDER BY Revenue DESC;

@@ -1,0 +1,1 @@
+SELECT DATE_FORMAT(Date, '%Y-%m') AS Month, SUM(Total_Amount) AS Sales FROM sales GROUP BY Month ORDER BY Month;

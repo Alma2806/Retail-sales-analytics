@@ -1,0 +1,1 @@
+SELECT Gender, SUM(Total_Amount) AS Total_Spent FROM sales GROUP BY Gender;

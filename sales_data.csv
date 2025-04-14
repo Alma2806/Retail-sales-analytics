@@ -1,0 +1,7 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+1001,2024-01-10,C001,Female,32,Electronics,2,150,300
+1002,2024-01-11,C002,Male,45,Clothing,3,40,120
+1003,2024-01-15,C003,Female,27,Groceries,5,10,50
+1004,2024-02-01,C001,Female,32,Clothing,1,35,35
+1005,2024-02-10,C004,Male,51,Electronics,1,200,200
+1006,2024-03-05,C002,Male,45,Groceries,10,8,80
