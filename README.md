@@ -43,9 +43,23 @@ Retail-Sales-Analytics-Project/
 
 ---
 
+## 🧠 SQL Analize
+
+- [monthly_sales.sql](SQL/monthly_sales.sql)
+- [gender_analysis.sql](SQL/gender_analysis.sql)
+
+---
+
+## 🐍 Python Notebook
+
+Notebook fajl: `retail_analysis.ipynb`  
+It describes the analysis by month, gender and product category.
+
+---
+
 ## 🔗 Tableau Dashboard
 
-👉 [Click here to view the dashboard](https://public.tableau.com/your-dashboard-link)
+👉 [(https://public.tableau.com/app/profile/alma.mujagic/viz/Retailsalesdatebase/Dashboard1?publish=yes)]
 
 ---
 
